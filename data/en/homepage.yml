@@ -1,0 +1,194 @@
+############################# banner ############################
+banner:
+  enable: true
+  title: "Pass the SALT conference<br> > Lille, France<br> > July 3-5 2023"
+  content: ""
+  image: "images/logo-pts23.png"
+  button:
+    enable: true
+    label: "Give a look to the videos of the 2022 edition!"
+    link: "https://passthesalt.ubicast.tv/channels/#2022"
+
+############################# description ############################
+description:
+  enable: true
+  title: "A totally <span style='color:orange;'>free</span> conference.<br>dedicated to <span style='color:orange;'>Free Software & Security</span>.<br> Talks & workshops delivered <span style='color:orange;'>by experts</span>. In <span style='color:orange;'>English</span>."
+  image: "images/speaker01.png"
+
+  # feature at the left of the image
+  left_side:
+    # feature item loop
+    - title: "High quality talks"
+      icon: "tf-ion-ios-mic"
+      content: "Talks are delivered by experts on the field. Last edition hosted **26 talks** covering **8 Security topics** (reverse, DFIR, offensive, web, crypto etc)."
+
+      # feature item loop
+    - title: "Quality Networking in a friendly French atmosphere"
+      icon: "tf-ion-ios-people"
+      content: "The small size of the event (100 to 300 people) allows you to have **quality exchange experiences with open minded attendees or speakers** in a warm and welcome ambiance."
+
+  # feature at the right of the image
+  right_side:
+    # feature item loop
+    - title: "Workshops"
+      icon: "tf-ion-ios-flask"
+      content: "Last edition hosted **5 workshops** on Reverse, Network, Theat intel and NFC topics. <br><br>Come to discover and practice!"
+
+      # feature item loop
+    - title: "Previous editions"
+      icon: "tf-ion-ios-time"
+      content: "Not yet convinced? Let's give a look at [some previous speakers](https://www.pass-the-salt.org/achievements/#speakers-list) and [some collaborations](https://www.pass-the-salt.org/achievements/#contributions) born during the conference. You can also browse [last edition report](https://2022.pass-the-salt.org/annual-report/) to have a good overview of the event."
+
+############################# team ############################
+team:
+  enable: true
+  image: "images/team.jpg"
+  title: "The Team"
+  content:
+    "Pass the SALT is brought to you by a small but enthusiast and dedicated team:<br>
+    - **core team:** @cryptocorn, @cbrocas, @doegox, @follc and @moutane.<br>
+    - **on-site volunteers:** @acervoise and Marc T.<br>
+    - and all the **Polytech crew** for the perfect support work!"
+
+############################# timeline ############################
+timeline:
+  enable: true
+  image: "images/speaker.jpg"
+  title: "Timeline"
+  content:
+    "November, 2022: announcement of the 2023 edition dates<br />
+    <span style='color:$primary-color'><b>December, 2022: the new website is online!</b></span></br>
+    January, 2023: opening of the Call For Papers<br />
+    April 15, 2023: closing of the Call For Paper<br/>
+    May 1, 2023: notification to the speakers<br/>
+    May 15, 2023: publication of the program<br />
+    May 24, 2023: opening of the booking interface<br />
+    July 3 to 5, 2023 : the conference (is now over!) :-)</b></span><br />"
+
+############################## Testimonial ##########################
+testimonial:
+  enable: true
+  title: "Your Feedback"
+  testimonial_item:
+    # testimonial item loop
+    - name: "Orange Tsaï"
+      designation: "Principal security researcher at DEVCORE, multiple times PwnieAwards and Master of Pwn winner"
+      image: "images/orange.png"
+      content: "My slides 'Hacking Jenkins' for #pts19 and #HITBAMS is out! This is my first time to go to France and Pass the SALT (@passthesaltcon
+) is such a really really good and interesting conference!"
+
+    # testimonial item loop
+    - name: "Peter Czanik"
+      designation: "@sngose & @SudoProject evangelist at @BalaBit (@oneidentity)"
+      image: "images/peter.jpg"
+      content: "'My Favorite IT Security Event: Pass the SALT' - My latest blog describes why I love @passthesaltcon
+, points you to the recording (& blog) of my talk, and lists some of my favorite talks I listened to this year at the #conference."
+
+    # testimonial item loop
+    - name: "Ange Albertini"
+      designation: "Corkami, CPS2Shock, PoC||GTFO, Sha1tered. Security engineer @ Google. He/him."
+      image: "images/ange.jpg"
+      content: "@passthesaltcon The conference gave me a lot of energy and inspiration. Thanks to all of you!<br><br><br><br>"
+
+
+############################## sponsors ##########################
+sponsors:
+  enable: true
+  title: "Sponsors"
+  testimonial_item:
+    # sponsors loop
+    - name: "Pretix"
+      designation: "FLOSS Event Booking service"
+      image: "images/sponsors/pretix.svg"
+      content: ""
+      url: "http://www.pretix.eu/"
+      height: "70"
+      width: "160"
+
+    - name: "Pretalx"
+      designation: "FLOSS CFP solution"
+      image: "images/sponsors/pretalx.svg"
+      content: ""
+      url: "http://www.pretalx.com/"
+      height: "70"
+      width: "160"
+
+    - name: "Ubicast"
+      designation: "Video capture/streaming partner"
+      image: "images/sponsors/ubicast.png"
+      content: ""
+      url: "https://www.ubicast.eu/"
+      height: "70"
+      width: "255"
+
+    - name: "Polytech"
+      designation: "Hosting partner"
+      image: "images/sponsors/polytech.gif"
+      content: ""
+      url: "https://www.polytech-lille.fr/"
+      height: "74"
+      width: "206"
+
+############################# promo ############################
+promo:
+  enable: false
+  image: "images/speaker.jpg"
+  title: "Our Goals"
+  content:
+    "The main goals of the conference are:
+    <br>- **provide open and free access to quality content** about Free Software and Security
+    <br>- **promote cooperation between hackers** coming from diverse Security and FLOSS communities
+    <br>- **enable quality exchange between speakers, attendees and organizers** through free access social moments"
+  
+############################# About Product #######################
+about_product:
+  enable: false
+  title: "Why coming to Pass the SALT"
+  items:
+    # about product item loop
+    - image: "images/showcase/badge.jpeg"
+      title: "Learn from experts."
+      content:
+        "You will have access to high quality talks and workshops delivered by experts on the field. All of this in a cool atmosphere with the right number of people to enjoy it!"
+      button:
+        enable: false
+        label: "Check Features"
+        link: "#/"
+
+    # about product item loop
+    - image: "images/showcase/showcase-3.png"
+      title: "Lorem ipsum dolor sit amet."
+      content:
+        "test Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
+        sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
+        quas, quo harum deserunt consequatur cumque!"
+      button:
+        enable: false
+        label: "Check Features"
+        link: "#/"
+
+    # about product item loop
+    - image: "images/showcase/showcase-3.png"
+      title: "Lorem ipsum dolor sit amet."
+      content:
+        "test2 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
+        sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
+        quas, quo harum deserunt consequatur cumque!"
+      button:
+        enable: false
+        label: "Check Features"
+        link: "#/"
+
+#################################### Products ########################
+products:
+  enable: false
+  title: "Checkout Our All Products"
+
+################################## Subscription ###################
+subscription:
+  enable: false
+  bg_image: "images/call-to-action.jpg"
+  title: "Get Product Updates"
+  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
+  placeholder: "Your Email Address Here"
+
