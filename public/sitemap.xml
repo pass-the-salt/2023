@@ -2,12 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://2023.pass-the-salt.org/categories/</loc>
-  </url><url>
     <loc>https://2023.pass-the-salt.org/code-of-conduct/</loc>
   </url><url>
     <loc>https://2023.pass-the-salt.org/</loc>
-  </url><url>
-    <loc>https://2023.pass-the-salt.org/tags/</loc>
   </url>
 </urlset>

@@ -13,6 +13,11 @@ disableLanguages = [] # disable language from here
 [markup.goldmark.renderer]
 unsafe = true
 
+#################################### Remove tags and categories page ##################
+# https://gohugo.io/content-management/taxonomies/
+# disableKinds did not seem to work but empty taxonomy does
+[taxonomies]
+
 #################################### Plugins ##########################################
 
 # CSS Plugins
