@@ -8,8 +8,13 @@ All the code required to generate the website of the 2023 edition of Pass the SA
 
 or visit https://gohugo.io/installation/linux/ and take the Extended edition.
 
+## Get the source files
+
+Clone this Github repo: `git clone https://github.com/pass-the-salt/2023.git`
+
 ## Modify content
 
+Some indications about the different directories and files:
 - `config.toml`: contains global parameters of the site (title, logo, lang, top and bottom menu content).
 - `data/en/homepage.yml`: Yaml parameters to inject into homepage through Vex theme templates.
 - `themes/vex-hugo/layouts/`: several directories containing all HTML templates of the Vex theme.
@@ -21,6 +26,7 @@ or visit https://gohugo.io/installation/linux/ and take the Extended edition.
 
 ## Test locally, produce final HTML files and push to website
 
-- run `hugo server` from the root of the repository to run the site locally in memory.
-- run `hugo` from the root of the repository to produce the static site pages in `public/`.
-- each push (`git push origin main`) will activate a webhook. The hook content is in the `cgi-bin/update.cgi` file and its URL is `https://2023.pass-the-salt.org/cgi-bin/update.cgi`. The webhook will check if updates exist on Github repo. If it is the case, it fetchs them to `/var/www/2023` directory on the server and then, rsync the content of the `public/` sub directory with the content of the website located in `/var/www/2023-passthesalt`.
+- run `hugo server` from the root of the repository to run the site locally in memory. Do it until you are satisfied by the result.
+- then, run `hugo` from the root of the repository to produce the static site pages in `public/`.
+- finally, commit and push changes to the Github repo: `git add * && git commit -m "your commit message" && git push origin main`
+- hooking: each push on the Github repo will activate a webhook (URL: `https://2023.pass-the-salt.org/cgi-bin/update.cgi`). The hook content is in the `cgi-bin/update.cgi` file. The script launched by the hook will check if updates exist on Github repo. If it is the case, it fetchs them to `/var/www/2023` directory on the server and then, rsync the content of the `public/` sub directory with the content of the website located in `/var/www/2023-passthesalt`.
