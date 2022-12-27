@@ -92,6 +92,16 @@ name = "Contact"
 url = "mailto:contact@pass-the-salt.org"
 weight = 1
 
+[[menu.footer]]
+name = "Mastodon"
+url = "https://infosec.exchange/@passthesaltcon"
+weight = 2
+
+[[menu.footer]]
+name = "Twitter"
+url = "https://twitter.com/passthesaltcon"
+weight = 3
+
 # [[menu.footer]]
 # name = "Privacy Policy"
 # url = "privacy-policy/"
