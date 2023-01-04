@@ -145,7 +145,7 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 # copyright
-copyright = "Powered by [Hugo](https://gohugo.io/) | Theme Vex by [Themefisher](https://themefisher.com/)+[Gethugothemes](https://gethugothemes.com/) | Tuned by [@passthesalcon](https://infosec.exchange/@passthesaltcon/)."
+copyright = "Powered by [Hugo](https://gohugo.io/) | Theme Vex by [Themefisher](https://themefisher.com/)+[Gethugothemes](https://gethugothemes.com/) | Tuned by [@passthesaltcon](https://infosec.exchange/@passthesaltcon/)."
 
 
 ################################### French language #####################################
