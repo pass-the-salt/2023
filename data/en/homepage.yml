@@ -95,13 +95,29 @@ testimonial:
 sponsors:
   enable: true
   title: "Sponsors"
-  testimonial_item:
-    # sponsors loop
+  platinum_sponsor_item:
+    # platinum sponsors loop
+    - name: "Gandi"
+      designation: "PLATINUM sponsor"
+      image: "images/sponsors/gandi.png"
+      content: ""
+      url: "https://www.gandi.net/"
+      height: "210"
+      width: "192"
+  partner_item:
+    # partners loop
+    - name: "Polytech"
+      designation: "Hosting partner"
+      image: "images/sponsors/polytech.gif"
+      content: ""
+      url: "https://www.polytech-lille.fr/"
+      height: "74"
+      width: "206"
     - name: "Pretix"
       designation: "FLOSS Event Booking service"
       image: "images/sponsors/pretix.svg"
       content: ""
-      url: "http://www.pretix.eu/"
+      url: "https://www.pretix.eu/"
       height: "70"
       width: "160"
 
@@ -109,7 +125,7 @@ sponsors:
       designation: "FLOSS CFP solution"
       image: "images/sponsors/pretalx.svg"
       content: ""
-      url: "http://www.pretalx.com/"
+      url: "https://www.pretalx.com/"
       height: "70"
       width: "160"
 
@@ -120,14 +136,6 @@ sponsors:
       url: "https://www.ubicast.eu/"
       height: "70"
       width: "255"
-
-    - name: "Polytech"
-      designation: "Hosting partner"
-      image: "images/sponsors/polytech.gif"
-      content: ""
-      url: "https://www.polytech-lille.fr/"
-      height: "74"
-      width: "206"
 
 ############################# promo ############################
 promo:
