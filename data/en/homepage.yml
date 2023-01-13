@@ -6,8 +6,8 @@ banner:
   image: "images/logo-pts23.png"
   button:
     enable: true
-    label: "Give a look to the videos of the 2022 edition!"
-    link: "https://passthesalt.ubicast.tv/channels/#2022"
+    label: "CFP is openned: just click to submit your proposal !"
+    link: "https://cfp.pass-the-salt.org/pts2023/"
 
 ############################# description ############################
 description:
@@ -57,8 +57,8 @@ timeline:
   title: "Timeline"
   content:
     "November, 2022: announcement of the 2023 edition dates<br />
-    <span style='color:$primary-color'><b> > December, 2022: the new website is online!</b></span></br>
-    January, 2023: opening of the Call For Papers<br />
+    December, 2022: the new website is online!</br>
+    <span style='color:$primary-color'><b> > January, 2023: opening of the Call For Papers</b></span><br />
     April 15, 2023: closing of the Call For Paper<br/>
     May 1, 2023: notification to the speakers<br/>
     May 15, 2023: publication of the program<br />
