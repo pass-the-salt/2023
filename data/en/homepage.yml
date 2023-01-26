@@ -104,6 +104,15 @@ sponsors:
       url: "https://www.gandi.net/"
       height: "210"
       width: "192"
+  silver_sponsor_item:
+    # silver sponsors loop
+    - name: "OPENCYBER"
+      designation: "SILVER sponsor"
+      image: "images/sponsors/opencyber-blue.png"
+      content: ""
+      url: "https://www.opencyber.com/"
+      height: "74"
+      width: "247"
   partner_item:
     # partners loop
     - name: "Polytech"
