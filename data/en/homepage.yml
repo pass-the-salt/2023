@@ -129,6 +129,13 @@ sponsors:
       url: "https://www.synacktiv.com/"
       height: "74"
       width: "370"  
+    - name: "Randorisec"
+      designation: "SILVER sponsor"
+      image: "images/sponsors/randorisec.png"
+      content: ""
+      url: "https://www.randorisec.fr/"
+      height: "76"
+      width: "400"  
   partner_item:
     # partners loop
     - name: "Polytech"
