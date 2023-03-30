@@ -113,6 +113,13 @@ sponsors:
       url: "https://www.quarkslab.com/"
       height: "101"
       width: "352"
+    - name: "LEXFO"
+      designation: "GOLD sponsor"
+      image: "images/sponsors/lexfo.jpg"
+      content: ""
+      url: "https://www.lexfo.fr/"
+      height: "96"
+      width: "282"
   silver_sponsor_item:
     # silver sponsors loop
     - name: "OPENCYBER"
