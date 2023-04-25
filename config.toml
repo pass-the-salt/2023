@@ -46,19 +46,24 @@ link = "plugins/slick/slick.min.js"
 ###################################### Navigation ######################################
 
 # homepage section menu
-[[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
+# [[menu.main]]
+# name = "Home"
+# url = "/"
+# weight = 1
 
 [[menu.main]]
 name = "About"
 url = "https://2023.pass-the-salt.org/#description"
-weight = 2
+weight = 1
 
 [[menu.main]]
 name = "Call for Papers"
 url = "https://cfp.pass-the-salt.org/pts2023/"
+weight = 2
+
+[[menu.main]]
+name = "Practical & Safety"
+url = "https://2023.pass-the-salt.org/practical/"
 weight = 3
 
 [[menu.main]]
