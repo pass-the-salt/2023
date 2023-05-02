@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Speakers information on Pass the SALT 2023</title>
+    <link>https://2023.pass-the-salt.org/speakers/</link>
+    <description>Recent content in Speakers information on Pass the SALT 2023</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Powered by [Hugo](https://gohugo.io/) | Theme Vex by [Themefisher](https://themefisher.com/)&#43;[Gethugothemes](https://gethugothemes.com/) | Tuned by [@passthesaltcon](https://infosec.exchange/@passthesaltcon/).</copyright><atom:link href="https://2023.pass-the-salt.org/speakers/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
