@@ -6,8 +6,8 @@ banner:
   image: "images/logo-pts23.png"
   button:
     enable: true
-    label: "CFP is open: just click to submit your proposal!"
-    link: "https://cfp.pass-the-salt.org/pts2023/"
+    label: "Give a look to our previous editions archives!"
+    link: "https://www.pass-the-salt.org/archives/"
 
 ############################# description ############################
 description:
@@ -58,9 +58,9 @@ timeline:
   content:
     "November 2022: announcement of the 2023 edition dates<br />
     December 2022: the new website is online!</br>
-    <span style='color:$primary-color'><b> > January 2023: opening of the Call For Papers</b></span><br />
+    January 2023: opening of the Call For Papers<br />
     April 14, 2023: closing of the Call For Paper<br/>
-    May 1, 2023: notification to the speakers<br/>
+    <span style='color:$primary-color'><b> >May 1, 2023: notification to the speakers</b></span><br/>
     May 15, 2023: publication of the program<br />
     May 24, 2023: opening of the booking interface<br />
     July 3 to 5, 2023 : the conference :-)</b></span><br />"
