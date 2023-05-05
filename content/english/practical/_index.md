@@ -42,16 +42,16 @@ address: Avenue Paul Langevin <br> 59655 Villeneuve d'Ascq<br />
 
 ## -> to Lille
 
-**from Paris, Gare du Nord train Station** : take TGV train to Lille Europe or Lille Flandres stations : 1 hour
+.&nbsp;**from Paris, Gare du Nord train Station** : take TGV train to Lille Europe or Lille Flandres stations : 1 hour
 <br><br>
 
-**from Brussels Midi train station** : take a TGV or Thalys or Eurostar train to Lille Europe station : 35 min
+.&nbsp;**from Brussels Midi train station** : take a TGV or Thalys or Eurostar train to Lille Europe station : 35 min
 <br><br>
 
-**from Paris Roissy Charles de Gaulle airport (CDG)** : take TGV train at Charles de Gaulle 2 train station inside the airport<br> to Lille Europe station : 50 min.
+.&nbsp;**from Paris Roissy Charles de Gaulle airport (CDG)** : take TGV train at Charles de Gaulle 2 train station inside the airport to Lille Europe station : 50 min.
 <br><br>
 
-**from Brussels National airport (BRU)** : use a national train to reach Brussels Midi station (30-40 min) - note: sometimes the signs only mention Zuidstation which means Brussels Midi station in Dutch! - and then ...
+.&nbsp;**from Brussels National airport (BRU)** : use a national train to reach Brussels Midi station (30-40 min) - note: sometimes the signs only mention Zuidstation which means Brussels Midi station in Dutch! - and then ...
 <br><br>
 
 <p>Important: note that <span style="color:orange; ">these trains require reservation</span>, book your ticket ahead of time! </p>
@@ -81,12 +81,10 @@ To book trains in France : <a href="https://www.sncf-connect.com/en-en/" style="
 
 # Eat & drink & party!
 
-**For lunch**
-
-> <b>a food truck</b> will be available at the conference site (parking in front of the main entrance). 
-<br>
-> <b>Restaurants and food stands</b> are also available at a 7 minutes walk from the conference site, near the Pierre Mauroy stadium (<a href="https://www.openstreetmap.org/#map=17/50.61086/3.13028)" style="color:orange;text-decoration: underline;">OpenStreetMap</a> / <a href="https://www.google.fr/maps/dir/Polytech+Lille,+Avenue+Paul+Langevin,+59655+Villeneuve-d'Ascq/50.6106614,3.1317252/@50.6098992,3.129625,16z/data=!4m9!4m8!1m5!1m1!1s0x47c2d64e4e520ecf:0xb4c46b1a1dfff7d6!2m2!1d3.1368716!2d50.607675!1m0!3e2" style="color:orange;text-decoration: underline;">Google Maps</a>).
-<br>**Your attention please:** lunches are not provided by the organization, you will have to pay them :)
+**For lunch:** <br>
+.&nbsp;<b>a food truck</b> will be available at the conference site (parking in front of the main entrance). <br>
+.&nbsp;<b>restaurants and food stands</b> are also available at a 7 minutes walk from the conference site, near the Pierre Mauroy stadium (<a href="https://www.openstreetmap.org/#map=17/50.61086/3.13028)" style="color:orange;text-decoration: underline;">OpenStreetMap</a> / <a href="https://www.google.fr/maps/dir/Polytech+Lille,+Avenue+Paul+Langevin,+59655+Villeneuve-d'Ascq/50.6106614,3.1317252/@50.6098992,3.129625,16z/data=!4m9!4m8!1m5!1m1!1s0x47c2d64e4e520ecf:0xb4c46b1a1dfff7d6!2m2!1d3.1368716!2d50.607675!1m0!3e2" style="color:orange;text-decoration: underline;">Google Maps</a>).
+<br><br><i>Your attention please:</i> lunches are not provided by the organization, you will have to pay them :)
 <br><br>
 
 **For pauses**: we will provide you free coffee/tea/juices pauses in the middle of each half day and some coffe. And also before conference start in the morning and the afternon. Note: we have no information about legacy French biscuits that may appear on the pauses tables ;-) 
@@ -112,10 +110,10 @@ At time of writing (May, 01 2023), there is no longer mandatory measures for han
 Despite that situation, we will provide **free masks** and **hydroalcoholic gel** at the org desk and in the 2 rooms (lecture hall and workshops room). 
 <br><br>
 
-**Rooms equipments** :
-> **lecture hall**:  there is a ventilation system that is automatically activated when the temperature rises or when the CO2 reaches a certain level. In addition, polytech has several portable CO2 detectors and one will be placed prominently on the desk at the bottom of the lecture hall.
+**Rooms equipments** :<br>
+.&nbsp;**lecture hall**:  there is a ventilation system that is automatically activated when the temperature rises or when the CO2 reaches a certain level. In addition, polytech has several portable CO2 detectors and one will be placed prominently on the desk at the bottom of the lecture hall.
 <br>
-> **workshop room**: there is air-conditioning, there will also be a portable CO2 detector in place. 
+.&nbsp;**workshop room**: there is air-conditioning, there will also be a portable CO2 detector in place. 
 
 <br>
 

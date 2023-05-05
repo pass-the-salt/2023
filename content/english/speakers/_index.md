@@ -21,25 +21,25 @@ More expensive, with AC:<br>
 [Okko Hotel](https://www.okkohotels.com/en/page/lille/.3097.html)<br>
 [La Valiz Hotel](https://www.hotellavaliz.com/)<br><br>
 
-**Important:** the best advice we can share is for <b>the location of the hotel</b>: <b>try to stay around the Bruxelles or Flandres stations area</b>. This way you will be near the center of Lille and also near the "Lille Flandres" metro station (under the "Lille Flandres" trains station) you will use to reach the conference location.<br><br>
+The best advice we can share is for <b>the location of the hotel</b>: <b>try to stay around the Bruxelles or Flandres stations area</b>. This way you will be near the center of Lille and also near the "Lille Flandres" metro station (under the "Lille Flandres" trains station) you will use to reach the conference location.<br><br>
 
-# Slides
+**Important:** other practical information (location, how to come, eat/drink etc) are available on the [dedicated practical info page](/practical/) !<br><br>
 
-**Template:** Pass the SALT does not provide nor require any kind of template.
+# Talks & slides
+
+**Duration:** there are long (35min) and short (20min) talks. Each given duration includes the Q&A time. We use to dedicate 5min to Q&A but it remains your choice. If the 5min does not fit you, just give us your preference before the talk and we will announce it to the audience.
+<br><br>
+
+**Speaker deck template:** Pass the SALT does not provide nor require any kind of template.
 <br><br>
 
 **Logo:** you can use our logo on your speaker deck. The correct source for it is in this [repository]( https://github.com/pass-the-salt/2023-communication/tree/main/logo/). 
 <br><br>
 
-**Preferred file type:** we prefer to receive PDF files. You can also provide LibreOffice format if you preferred. Power-what? You are at Pass the SALT, please ;-)
+**Preferred speaker deck file type:** we prefer to receive PDF files. You can also provide LibreOffice format if you preferred. Power-what? You are at Pass the SALT, please ;-)
 <br><br>
 
 **IMPORTANT send us your speaker deck:** we will greatly appreciate if you can provide your slides before your talk or just after it. We try to provide them to all attendees (on-site and online ones) as soon as possible on our [archives site](https://archives.pass-the-salt.org/Pass%20the%20SALT/).
-<br><br>
-
-# Testing your video setup BEFORE your talk
-
-Please come during the pause (or before the start of the morning / afternoon session) on stage in order to test your laptop with the video system.
 <br><br>
 
 # Lecture hall
@@ -66,4 +66,9 @@ Please come during the pause (or before the start of the morning / afternoon ses
 
 **network access:** every participant who has accepted it during registration process will received a network access (we work to get non filtered SSH output among other things). We will try to set up an ethernet switch with less filtered as possible Internet access. 
 
-<center><img src="/images/workshop-room.jpeg" height="153" width="204"  alt="workshop room"></center>
+<center><img src="/images/workshop-room.jpeg" height="153" width="204"  alt="workshop room"></center> <br><br>
+
+# Test your video setup BEFORE your talk
+
+Please come during the pause (or before the start of the morning / afternoon session) on stage in order to test your laptop with the video system.
+<br><br>
