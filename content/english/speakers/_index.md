@@ -30,13 +30,13 @@ The best advice we can share is for <b>the location of the hotel</b>: <b>try to 
 **Duration:** there are long (35min) and short (20min) talks. Each given duration includes the Q&A time. We use to dedicate 5min to Q&A but it remains your choice. If the 5min does not fit you, just give us your preference before the talk and we will announce it to the audience.
 <br><br>
 
-**Speaker deck template:** Pass the SALT does not provide nor require any kind of template.
+**Speaker deck template and format:** Pass the SALT does not provide nor require any kind of template. We prefer to receive PDF files. You can also provide LibreOffice format if you preferred. Powerpoint, anyone? You are at Pass the SALT, please ;-)
+<br><br>
+
+**Code of Conduct:** Pass the SALT has a [code of conduct](https://2023.pass-the-salt.org/code-of-conduct/) for attendees and for speakers too, obviously. Your words and your slides will have to follow it without exception. Thanks in advance!
 <br><br>
 
 **Logo:** you can use our logo on your speaker deck. The correct source for it is in this [repository]( https://github.com/pass-the-salt/2023-communication/tree/main/logo/). 
-<br><br>
-
-**Preferred speaker deck file type:** we prefer to receive PDF files. You can also provide LibreOffice format if you preferred. Power-what? You are at Pass the SALT, please ;-)
 <br><br>
 
 **IMPORTANT send us your speaker deck:** we will greatly appreciate if you can provide your slides before your talk or just after it. We try to provide them to all attendees (on-site and online ones) as soon as possible on our [archives site](https://archives.pass-the-salt.org/Pass%20the%20SALT/).
