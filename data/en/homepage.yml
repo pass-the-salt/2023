@@ -6,8 +6,8 @@ banner:
   image: "images/logo-pts23.png"
   button:
     enable: true
-    label: "Give a look to our previous editions archives!"
-    link: "https://www.pass-the-salt.org/archives/"
+    label: "Check the program (the booking site is coming)!"
+    link: "https://cfp.pass-the-salt.org/pts2023/schedule/"
 
 ############################# description ############################
 description:
@@ -20,7 +20,7 @@ description:
     # feature item loop
     - title: "High quality talks"
       icon: "tf-ion-ios-mic"
-      content: "Talks are delivered by experts on the field. Last edition hosted **26 talks** covering **8 Security topics** (reverse, DFIR, offensive, web, crypto etc)."
+      content: "2023 edition will host **22 talks** covering **9 Security topics** (supply chain, boot security, OSINT, network DFIR, pentest, reverser tooling etc). Talks are all delivered **by experts** on the field and **in English**."
 
       # feature item loop
     - title: "Quality Networking in a friendly French atmosphere"
@@ -32,7 +32,7 @@ description:
     # feature item loop
     - title: "Workshops"
       icon: "tf-ion-ios-flask"
-      content: "Last edition hosted **5 workshops** on Reverse, Network, Theat intel and NFC topics. <br><br>Come to discover and practice!"
+      content: "There will be **3 workshops** on Syslog-ng, Scapy and eBPF. <br><br><br>Come to discover and practice!"
 
       # feature item loop
     - title: "Previous editions"
@@ -47,7 +47,7 @@ team:
   content:
     "Pass the SALT is brought to you by a small but enthusiast and dedicated team:<br>
     - **core team:** @cryptocorn, @cbrocas, @doegox, @follc and @moutane.<br>
-    - **on-site volunteers:** @abrianceau, @acervoise, @cdpointpoint and Marc T.<br>
+    - **on-site volunteers:** @abrianceau, @acervoise and Marc T.<br>
     - and all the **Polytech crew** for the perfect support work!"
 
 ############################# timeline ############################
@@ -60,9 +60,9 @@ timeline:
     December 2022: the new website is online!</br>
     January 2023: opening of the Call For Papers<br />
     April 14, 2023: closing of the Call For Paper<br/>
-    <span style='color:$primary-color'><b> >May 1, 2023: notification to the speakers</b></span><br/>
-    May 15, 2023: publication of the program<br />
-    May 24, 2023: opening of the booking interface<br />
+    May 1, 2023: notification to the speakers<br/>
+    <span style='color:$primary-color'><b> > May 15, 2023: publication of the program</b></span><br />
+    May 31, 2023: opening of the booking interface<br />
     July 3 to 5, 2023 : the conference :-)</b></span><br />"
 
 ############################## Testimonial ##########################
