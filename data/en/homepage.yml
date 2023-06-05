@@ -6,8 +6,8 @@ banner:
   image: "images/logo-pts23.png"
   button:
     enable: true
-    label: "Check the program (the booking site is coming)!"
-    link: "https://cfp.pass-the-salt.org/pts2023/schedule/"
+    label: "Book your seat, it is FREE!"
+    link: "https://pretix.eu/passthesalt/2023/"
 
 ############################# description ############################
 description:
@@ -61,8 +61,8 @@ timeline:
     January 2023: opening of the Call For Papers<br />
     April 14, 2023: closing of the Call For Paper<br/>
     May 1, 2023: notification to the speakers<br/>
-    <span style='color:$primary-color'><b> > May 15, 2023: publication of the program</b></span><br />
-    May 31, 2023: opening of the booking interface<br />
+    May 15, 2023: publication of the program<br />
+    <span style='color:$primary-color'><b> > June 5, 2023: opening of the booking interface</b></span><br />
     July 3 to 5, 2023 : the conference :-)</b></span><br />"
 
 ############################## Testimonial ##########################
