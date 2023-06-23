@@ -27,6 +27,9 @@ The best advice we can share is for <b>the location of the hotel</b>: <b>try to 
 
 # Talks & slides
 
+**Test your video setup BEFORE your talk:** please come during the pause (or before the start of the morning / afternoon session) on stage in order to test your laptop with the video system.
+<br><br>
+
 **Duration:** there are long (35min) and short (20min) talks. Each given duration includes the Q&A time. We use to dedicate 5min to Q&A but it remains your choice. If the 5min does not fit you, just give us your preference before the talk and we will announce it to the audience.
 <br><br>
 
@@ -68,7 +71,3 @@ The best advice we can share is for <b>the location of the hotel</b>: <b>try to 
 
 <center><img src="/images/workshop-room.jpeg" height="153" width="204"  alt="workshop room"></center> <br><br>
 
-# Test your video setup BEFORE your talk
-
-Please come during the pause (or before the start of the morning / afternoon session) on stage in order to test your laptop with the video system.
-<br><br>
