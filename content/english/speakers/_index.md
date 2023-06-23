@@ -4,8 +4,27 @@ permalink: /speakers/
 ref: Speakers
 ---
 
-You will find on this page specific information for speakers (slides, rooms equipments, setup testing recommandation) and also, some not so trustable advices about hotels ;-) All other practical information (conference location, how to come, on-site registration, eat/drink/social event ...) are located on the [dedicated page](/practical/).<br><br>
 
+<a href="#speakers-dinner">The speakers dinner</a> | <a href="#hotels">How to sleep</a> | <a href="#talks--slides">Your présentation</a> | <a href="#lecture-hall">The Lecture Hall</a> | <a href="#workshop-room"> The Workshop Room</a> <br><br>
+
+You will find on this page specific information for speakers (slides, rooms equipments, setup testing recommandation) and also, the speakers dinner and some not so trustable advices about hotels ;-) <br><br>
+
+**IMPORTANT:** **all other practical information** (conference location, how to come, on-site registration, eat/drink/social event ...) are located on the [general practical info page](/practical/).<br><br>
+
+# Speakers dinner
+
+On Monday evening, we will have a lunch with all the speakers who have accepted to come and the org team.<br><br>
+
+It will be held at: "Las Tapas" restaurant - 116 Rue Saint-André, 59000 Lille<br><br>
+
+Maps : https://goo.gl/maps/K8A9W8556sAmgSe66 <br><br>
+
+**IMPORTANT** as shown on the map, it is at a **22min walk from the Lille Flandres train station**. And no public transportation to reach it. 
+So, if for any of you, **for any reason**, it is a problem to walk this duration, just raise your hand! We will book a Uber or Taxi for you, no problem for that!<br><br>
+
+It will start **at 8:00PM / 20h00**.<br><br>
+
+The dinner will be paid by the event, with a package for the drinks.<br><br>
 
 # Hotels
 
