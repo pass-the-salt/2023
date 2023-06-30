@@ -57,6 +57,11 @@ url = "https://2023.pass-the-salt.org/#description"
 weight = 1
 
 [[menu.main]]
+name = "LIVESTREAM!"
+url = "https://passthesalt.ubicast.tv/lives/live-pass-the-salt-2023/"
+weight = 2
+
+[[menu.main]]
 name = "Register!"
 url = "https://pretix.eu/passthesalt/2023/"
 weight = 3

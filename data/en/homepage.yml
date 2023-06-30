@@ -6,8 +6,8 @@ banner:
   image: "images/logo-pts23.png"
   button:
     enable: true
-    label: "Book your seat, it is FREE!"
-    link: "https://pretix.eu/passthesalt/2023/"
+    label: "LIVESTREAM (ON on July, 3rd 2023 at 14:15 CEST)"
+    link: "https://passthesalt.ubicast.tv/lives/live-pass-the-salt-2023/"
 
 ############################# description ############################
 description:
@@ -47,7 +47,7 @@ team:
   content:
     "Pass the SALT is brought to you by a small but enthusiast and dedicated team:<br>
     - **core team:** @cryptocorn, @cbrocas, @doegox, @follc and @moutane.<br>
-    - **on-site volunteers:** @abrianceau, @acervoise and Marc T.<br>
+    - **on-site volunteers:** @abrianceau, @acervoise, @cdpointpoint and Marc T.<br>
     - and all the **Polytech crew** for the perfect support work!"
 
 ############################# timeline ############################
