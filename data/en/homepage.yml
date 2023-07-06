@@ -6,8 +6,8 @@ banner:
   image: "images/logo-pts23.png"
   button:
     enable: true
-    label: "LIVESTREAM (ON on July, 3rd 2023 at 14:15 CEST)"
-    link: "https://passthesalt.ubicast.tv/lives/live-pass-the-salt-2023/"
+    label: "Videos"
+    link: "https://passthesalt.ubicast.tv/channels/#2023"
 
 ############################# description ############################
 description:
