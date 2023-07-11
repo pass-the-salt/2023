@@ -32,7 +32,7 @@ description:
     # feature item loop
     - title: "Workshops"
       icon: "tf-ion-ios-flask"
-      content: "There will be **3 workshops** on Syslog-ng, Scapy and eBPF. There will be given **by a project developer/maintainer or an expert on the field**.<br>Come to discover and practice!"
+      content: "There will be **3 workshops** on Syslog-ng, Scapy and Sanzu. There will be given **by a project developer/maintainer or an expert on the field**.<br>Come to discover and practice!"
 
       # feature item loop
     - title: "Previous editions"
@@ -46,8 +46,8 @@ team:
   title: "The Team"
   content:
     "Pass the SALT is brought to you by a small but enthusiast and dedicated team:<br>
-    - **core team:** @&#95;cryptocorn&#95;, @cbrocas, @doegox, @follc and @moutane.<br>
-    - **on-site volunteers:** @abrianceau, @acervoise, @cdpointpoint and Marc T.<br>
+    - **core team:** <a href=https://twitter.com/_cryptocorn_>@&#95;cryptocorn&#95;</a>, <a href=https://twitter.com/cbrocas>@cbrocas</a>, <a href=https://twitter.com/doegox>@doegox</a>, <a href=https://twitter.com/follc>@follc</a> and <a href=https://twitter.com/moutane>@moutane</a>.<br>
+    - **on-site volunteers:** <a href=https://twitter.com/abrianceau>@abrianceau</a>, <a href=https://twitter.com/acervoise>@acervoise</a>, <a href=https://twitter.com/cdpointpoint>@cdpointpoint</a> and Marc T.<br>
     - and all the **Polytech crew** for the perfect support work!"
 
 ############################# timeline ############################
@@ -63,7 +63,7 @@ timeline:
     May 1, 2023: notification to the speakers<br/>
     May 15, 2023: publication of the program<br />
     July 5, 2023: opening of the booking interface<br />
-    <span style='color:$primary-color'><b> > July 3 to 5, 2023 : the conference :-)</b></span><br />"
+    <span style='color:$primary-color'><b> > July 3 to 5, 2023 : the conference (is now over ;-) )</b></span><br />"
 
 ############################## Testimonial ##########################
 testimonial:
