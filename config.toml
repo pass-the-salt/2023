@@ -71,10 +71,14 @@ name = "Videos"
 url = "https://passthesalt.ubicast.tv/channels/#2023"
 weight = 3
 
+[[menu.main]]
+name = "Practical"
+url = "https://2023.pass-the-salt.org/practical/"
+weight = 4
 
 [[menu.main]]
-name = "Practical & Safety"
-url = "https://2023.pass-the-salt.org/practical/"
+name = "Report"
+url = "https://2023.pass-the-salt.org/annual-report/"
 weight = 4
 
 [[menu.main]]
@@ -83,7 +87,7 @@ url = "https://2023.pass-the-salt.org/#sponsors"
 weight = 5
 
 [[menu.main]]
-name = "Code of Conduct"
+name = "CoC"
 url = "code-of-conduct/"
 weight = 6
 
