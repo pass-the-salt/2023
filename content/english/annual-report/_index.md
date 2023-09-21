@@ -269,9 +269,9 @@ Good points that were mentioned:<br>
 **- Provide a hotel list**<br><br>
 
 👍 **Answers provided during the 2023 edition:**<br>
-**- CFP:** we provided feedback from the review committee for all submissions, accepted or not, in order to improve the future submissions of the speakers and/or to guide the speaker for its accepted talk delivery on stage.<br>
+**- CFP:** <span style="color:orange">**new**</span> we provided feedback from the review committee for all submissions, accepted or not, in order to improve the future submissions of the speakers and/or to guide the speaker for its accepted talk delivery on stage.<br>
 **- Speakers dinner:** it has been held in a room where you can sit but also stand up and circulate from people to people. Unfortunately, the room was noisy and not large enough to be fully convenient. We will try to improve this point next year.<br>
-**- Hotel list:** on the dedicated web page to the speakers, we create a section providing the list of the hotels we already have used in Lille, with our appreciation.<br><br>
+**- Hotel list:** <span style="color:orange">**new**</span> on the dedicated web page to the speakers, we create a section providing the list of the hotels we already have used in Lille, with our appreciation.<br><br>
 
 🛠️ List of **suggested improvements** by 2023 speakers **for 2024 edition**<br>
 **- Better Wi-Fi experience:** we definitely failed in providing a good Wi-Fi connection to our speakers, which led to some failures during demos for example. We apologize for this and we will work harder next year to provide a much better experience on this aspect ;<br>
